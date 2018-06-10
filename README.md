@@ -1,2 +1,2 @@
 # os_mint
-OpenSimulator binaries for Linux Min 18.03
+OpenSimulator binaries for Linux Mint 18.03
